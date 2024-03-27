@@ -16,6 +16,7 @@
 		1EF1A6C32BB2E5F5002F04D9 /* DatingApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1A6C22BB2E5F5002F04D9 /* DatingApplicationTests.swift */; };
 		1EF1A6CD2BB2E5F5002F04D9 /* DatingApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1A6CC2BB2E5F5002F04D9 /* DatingApplicationUITests.swift */; };
 		1EF1A6CF2BB2E5F5002F04D9 /* DatingApplicationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1A6CE2BB2E5F5002F04D9 /* DatingApplicationUITestsLaunchTests.swift */; };
+		1EF1A6DE2BB4289A002F04D9 /* MobileNumberInputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1A6DD2BB4289A002F04D9 /* MobileNumberInputViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1EF1A6C82BB2E5F5002F04D9 /* DatingApplicationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatingApplicationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EF1A6CC2BB2E5F5002F04D9 /* DatingApplicationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatingApplicationUITests.swift; sourceTree = "<group>"; };
 		1EF1A6CE2BB2E5F5002F04D9 /* DatingApplicationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatingApplicationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1EF1A6DD2BB4289A002F04D9 /* MobileNumberInputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobileNumberInputViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1EF1A6AB2BB2E5F2002F04D9 /* AppDelegate.swift */,
 				1EF1A6AD2BB2E5F2002F04D9 /* SceneDelegate.swift */,
 				1EF1A6AF2BB2E5F2002F04D9 /* ViewController.swift */,
+				1EF1A6DD2BB4289A002F04D9 /* MobileNumberInputViewController.swift */,
 				1EF1A6B12BB2E5F2002F04D9 /* Main.storyboard */,
 				1EF1A6B42BB2E5F5002F04D9 /* Assets.xcassets */,
 				1EF1A6B62BB2E5F5002F04D9 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1EF1A6DE2BB4289A002F04D9 /* MobileNumberInputViewController.swift in Sources */,
 				1EF1A6B02BB2E5F2002F04D9 /* ViewController.swift in Sources */,
 				1EF1A6AC2BB2E5F2002F04D9 /* AppDelegate.swift in Sources */,
 				1EF1A6AE2BB2E5F2002F04D9 /* SceneDelegate.swift in Sources */,
